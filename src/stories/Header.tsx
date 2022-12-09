@@ -48,7 +48,7 @@ export const Header = ({
         {user ? (
           <>
             <span className="welcome">
-              Welcome, Test <b>{user.name}</b>!
+              Welcome, Test 20221209 Friday <b>{user.name}</b>!
             </span>
             <Button size="small" onClick={onLogout} label="Log out" />
           </>
